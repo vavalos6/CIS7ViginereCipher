@@ -1,2 +1,3 @@
 # CIS7ViginereCipher
-Program application allows user to encrypt or decrypt message of choice using key of choice
+
+CODEVELOPERS is utilizing a Vigenere Cipher to encrypt and/or decrypt a plaintext string message provided by the user using the keyword they provide to use as the alphabet shift on the plaintext string message that will then return a cipher text message.  
